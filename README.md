@@ -20,10 +20,6 @@ Our Team will create an informative and engaging website to spread awareness abo
 •	A page where we can find solutions like "how to switch to clean energy"
 
 
-Git Hub Repository:
-https://github.com/arpan-pramanik/Black-OPS-OzoneX
-
-
 TEAM:
 Rohan Kumar Mohanta |
 Arpan Pramanik |
